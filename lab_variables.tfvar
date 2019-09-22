@@ -1,0 +1,4 @@
+private_key_path = "/Users/knedza/tf/KarolFrankfurt.pem"
+region_code = "emea"
+product_code = "steelconnect"
+release_code = "2.12"
