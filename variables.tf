@@ -1,3 +1,5 @@
+# Comment
+
 variable "private_key_path" {}
 variable "key_name" {
   default = "KarolFrankfurt"
